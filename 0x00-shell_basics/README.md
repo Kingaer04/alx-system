@@ -1,1 +1,1 @@
-Shellvbasics commands[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[l[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Shell basics commands
